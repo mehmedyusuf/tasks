@@ -1,0 +1,6 @@
+C:\Users\Arkan\source\repos\Tasks\Tasks\bin\Debug\Tasks.exe.config
+C:\Users\Arkan\source\repos\Tasks\Tasks\bin\Debug\Tasks.exe
+C:\Users\Arkan\source\repos\Tasks\Tasks\bin\Debug\Tasks.pdb
+C:\Users\Arkan\source\repos\Tasks\Tasks\obj\Debug\ZeroCheck.csproj.CoreCompileInputs.cache
+C:\Users\Arkan\source\repos\Tasks\Tasks\obj\Debug\Tasks.exe
+C:\Users\Arkan\source\repos\Tasks\Tasks\obj\Debug\Tasks.pdb

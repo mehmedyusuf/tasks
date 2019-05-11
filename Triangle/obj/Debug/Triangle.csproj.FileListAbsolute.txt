@@ -1,0 +1,9 @@
+C:\Users\Arkan\source\repos\Tasks\Triangle\bin\Debug\Triangle.exe.config
+C:\Users\Arkan\source\repos\Tasks\Triangle\bin\Debug\Triangle.exe
+C:\Users\Arkan\source\repos\Tasks\Triangle\bin\Debug\Triangle.pdb
+C:\Users\Arkan\source\repos\Tasks\Triangle\obj\Debug\Triangle.csprojResolveAssemblyReference.cache
+C:\Users\Arkan\source\repos\Tasks\Triangle\obj\Debug\Triangle.TriangleTask.resources
+C:\Users\Arkan\source\repos\Tasks\Triangle\obj\Debug\Triangle.Properties.Resources.resources
+C:\Users\Arkan\source\repos\Tasks\Triangle\obj\Debug\Triangle.csproj.GenerateResource.Cache
+C:\Users\Arkan\source\repos\Tasks\Triangle\obj\Debug\Triangle.exe
+C:\Users\Arkan\source\repos\Tasks\Triangle\obj\Debug\Triangle.pdb

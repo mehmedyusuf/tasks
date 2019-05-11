@@ -1,0 +1,7 @@
+C:\Users\Arkan\source\repos\Tasks\CostOfParquet\bin\Debug\CostOfParquet.exe.config
+C:\Users\Arkan\source\repos\Tasks\CostOfParquet\bin\Debug\CostOfParquet.exe
+C:\Users\Arkan\source\repos\Tasks\CostOfParquet\bin\Debug\CostOfParquet.pdb
+C:\Users\Arkan\source\repos\Tasks\CostOfParquet\obj\Debug\CostOfParquet.csprojAssemblyReference.cache
+C:\Users\Arkan\source\repos\Tasks\CostOfParquet\obj\Debug\CostOfParquet.csproj.CoreCompileInputs.cache
+C:\Users\Arkan\source\repos\Tasks\CostOfParquet\obj\Debug\CostOfParquet.exe
+C:\Users\Arkan\source\repos\Tasks\CostOfParquet\obj\Debug\CostOfParquet.pdb

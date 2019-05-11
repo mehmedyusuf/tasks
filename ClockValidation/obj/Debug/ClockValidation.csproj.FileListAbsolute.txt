@@ -1,0 +1,5 @@
+C:\Users\Arkan\source\repos\Tasks\ClockValidation\bin\Debug\ClockValidation.exe.config
+C:\Users\Arkan\source\repos\Tasks\ClockValidation\bin\Debug\ClockValidation.exe
+C:\Users\Arkan\source\repos\Tasks\ClockValidation\bin\Debug\ClockValidation.pdb
+C:\Users\Arkan\source\repos\Tasks\ClockValidation\obj\Debug\ClockValidation.exe
+C:\Users\Arkan\source\repos\Tasks\ClockValidation\obj\Debug\ClockValidation.pdb

@@ -1,0 +1,6 @@
+C:\Users\Arkan\source\repos\Tasks\EvenNumberCheck\bin\Debug\EvenNumberCheck.exe.config
+C:\Users\Arkan\source\repos\Tasks\EvenNumberCheck\bin\Debug\EvenNumberCheck.exe
+C:\Users\Arkan\source\repos\Tasks\EvenNumberCheck\bin\Debug\EvenNumberCheck.pdb
+C:\Users\Arkan\source\repos\Tasks\EvenNumberCheck\obj\Debug\EvenNumberCheck.csproj.CoreCompileInputs.cache
+C:\Users\Arkan\source\repos\Tasks\EvenNumberCheck\obj\Debug\EvenNumberCheck.exe
+C:\Users\Arkan\source\repos\Tasks\EvenNumberCheck\obj\Debug\EvenNumberCheck.pdb
